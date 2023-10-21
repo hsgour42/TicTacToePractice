@@ -1,0 +1,21 @@
+1 : Size of board custom
+2 : Has multiple player <- assign unique sign to player
+3 : Has bot in this game
+4 : Have different difficulty level of bot
+5 : Have different winning strategy
+
+6 : Can we do undo in game - Yes
+
+
+CLASSES :
+Game
+GameStatus
+Board
+Cell
+CellStatus
+Player
+PlayerType
+Symbol
+Bot
+
+
